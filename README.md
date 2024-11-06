@@ -34,7 +34,7 @@ Este projeto visa desenvolver um sistema de gerenciamento para uma plataforma de
 - Um pedido pode ter várias formas de pagamento (N:M).
 - Cada pedido tem uma entrega associada (1:1).
 
-## Diagrama ER
+## Diagrama MER
 ![Diagrama ER](model/diagrama_mer.png)
 
 ## Executar o Projeto
